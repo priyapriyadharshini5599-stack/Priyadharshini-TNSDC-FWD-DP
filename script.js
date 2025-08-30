@@ -1,0 +1,5 @@
+function printResume() {
+
+  window.print();
+
+}
